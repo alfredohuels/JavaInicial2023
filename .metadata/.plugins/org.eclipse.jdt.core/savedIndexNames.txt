@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+C:\Users\VAIO\Desktop\JavaInicial2023\JavaInicial2023\.metadata\.plugins\org.eclipse.jdt.core
